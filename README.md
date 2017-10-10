@@ -1,4 +1,6 @@
 # Google AdSense 
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/nuxt-community/adsense-module.svg)](https://greenkeeper.io/)
 > Google AdSense integration for Nuxt.js. Advertisements will update whenever the page route changes
 
 The asynychronous add code (`//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js`) is automatically
