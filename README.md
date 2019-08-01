@@ -115,5 +115,3 @@ For test mode, the following blog was used as a reference:
 ## License
 
 [MIT License](./LICENSE)
-
-Copyright (c) 2017 Troy Morehouse - Nuxt Community
